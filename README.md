@@ -103,6 +103,6 @@ A focused view on performance over different timeframes.
 
 Feel free to connect with me for collaborations or inquiries.
 
-*   **Upwork:** [Your Upwork Profile Link]
-*   **LinkedIn:** [Your LinkedIn Profile Link]
-*   **Email:** your.email@example.com
+*   **Upwork:** https://www.upwork.com/freelancers/muazzamahmad
+*   **LinkedIn:** https://www.linkedin.com/in/muhammadmuazzamahmad/
+*   **Email:** ahmadmuhammadmuazzam@gmail.com
