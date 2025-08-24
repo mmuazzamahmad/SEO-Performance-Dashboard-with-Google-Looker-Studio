@@ -1,28 +1,8 @@
 # Comprehensive SEO Performance Dashboard with Google Looker Studio
 
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-FEBD11?style=for-the-badge&logo=looker&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4581F4?style=for-the-badge&logo=google&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO_Analytics-1DA1F2?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-D94E93?style=for-the-badge&logo=d3dotjs&logoColor=white)
-
-An interactive and multi-page Looker Studio dashboard designed to transform raw Google Search Console (GSC) data into actionable business intelligence. This report provides a 360-degree view of a website's organic search health, enabling stakeholders to make data-driven decisions to improve SEO performance.
-
----
-
-## 🚀 Live Demo & Preview
-
 [![Watch the video](https://img.youtube.com/vi/uY25ZoOdyEk/0.jpg)](https://www.youtube.com/watch?v=uY25ZoOdyEk)
 
-A live, interactive version of the dashboard is available for you to explore.
-
-**➡️ [View the Live Interactive Dashboard Here](YOUR_LIVE_DASHBOARD_LINK)**
-
-_Note: The live dashboard uses a sample dataset. The data is for demonstration purposes only._
-
-Below is a short video walkthrough showcasing the dashboard's features and interactivity.
-
-**(Recommended: Embed a GIF of your screen recording here. You can drag and drop it into the GitHub editor)**
-![Dashboard Preview](PATH_TO_YOUR_VIDEO_OR_GIF.gif)
+An interactive and multi-page Looker Studio dashboard designed to transform raw Google Search Console (GSC) data into actionable business intelligence. This report provides a 360-degree view of a website's organic search health, enabling stakeholders to make data-driven decisions to improve SEO performance.
 
 ---
 
