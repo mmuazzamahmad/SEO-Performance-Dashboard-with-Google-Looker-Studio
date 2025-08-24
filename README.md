@@ -11,6 +11,8 @@ An interactive and multi-page Looker Studio dashboard designed to transform raw 
 
 ## 🚀 Live Demo & Preview
 
+[![Watch the video](https://img.youtube.com/vi/uY25ZoOdyEk/0.jpg)](https://www.youtube.com/watch?v=uY25ZoOdyEk)
+
 A live, interactive version of the dashboard is available for you to explore.
 
 **➡️ [View the Live Interactive Dashboard Here](YOUR_LIVE_DASHBOARD_LINK)**
